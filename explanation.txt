@@ -1,8 +1,0 @@
-Well my submission is late because the project parts were very confusing to understand.
-It took me several days to complete rasterer.
-For part two, I was very confused with the Ways and the Nodes and didn't understand how to connect.
-I spent a few days figuring that as well, but once I understood what the Way nodes meant I could complete it with ease.
-Also, I was somewhat behind on lectures due to the midterm being on the first week we got back
-and then I became more behind as the project came out right after.
-
-So to summarize really, the project parts were just confusing to understand and the timing of the project was bad.
